@@ -1,2 +1,2 @@
 # MoreEntities
-A Pocketmine Plugin to add More Entities to your Server.
+Adds Empty, Wasteful stupid entities to your server.
