@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace OmmiDevs\MoreEntities\entity;
 
 use pocketmine\entity\Animal;
-use pocketmine\item\item;
+use pocketmine\item\Item;
 
 class Sheep extends Animal
 {
