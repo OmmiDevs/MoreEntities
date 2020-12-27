@@ -1,0 +1,5 @@
+name: MoreEntities
+api: 3.0.0
+main: OmmiDevs\MoreEntities\Loader
+version: 20.1.9
+website: github.com/ommidevs/MoreEntities
